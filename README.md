@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Deep Learning and Generative AI projects, focusing on real-world business use cases  <br>👯 I’m looking to collaborate on AI, Machine Learning, Deep Learning, and GenAI projects  <br>🤝 I’m looking for help with advanced model optimization, deployment, and scalable AI systems  <br>🌱 I’m currently learning advanced Deep Learning architectures, GenAI frameworks, and business-oriented AI solutions  <br>💬 Ask me about AI Engineering, Machine Learning, Deep Learning, and Generative AI  <br>⚡ Fun fact: I enjoy turning complex AI concepts into practical, real-world solutions<br>
 
-
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=google-chrome&logoColor=white)](https://shaiknazeer14.github.io/nazeerweb/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-nazeer-ai/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imnazeer720@gmail.com)
 

@@ -342,3 +342,167 @@ Currently Learning:
 | Generative AI                     | CodeBasics        |
 
 ---
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🧠 Building Production-Grade AI Systems
+
+🤖 Agentic AI Workflows
+
+📚 Graph RAG with Neo4j
+
+⚡ FastAPI Backend Development
+
+🛠 AI Product Engineering
+
+📦 Docker Deployment
+
+🔍 LLM Fine-Tuning
+
+🚀 Scalable Machine Learning Systems
+```
+
+---
+
+# 🤝 Open To
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI_Internships-Available-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-Roles-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-Projects-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-Opportunities-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Contributions-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Collaboration-Welcome-brightgreen?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:imnazeer720@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shaik-nazeer-ai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codebasics.io/portfolio/Shaik-Nazeer">
+<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/R9A3CkqdEL/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable this after creating your profile repository and adding the GitHub Action.
+
+```markdown
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# ⭐ If You Like My Work
+
+If you find my projects useful, consider:
+
+⭐ Starring my repositories
+
+🍴 Forking projects that interest you
+
+🤝 Collaborating on AI and Machine Learning projects
+
+💡 Sharing feedback and ideas
+
+---
+
+<div align="center">
+
+## Thanks for visiting my profile! 👋
+
+### *Building intelligent systems that bridge AI research with real-world applications.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
+
+</div>

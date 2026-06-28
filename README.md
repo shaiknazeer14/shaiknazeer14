@@ -125,3 +125,247 @@ Current Focus:
 </div>
 
 ---
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧠 Deep Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/CNN-Deep_Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object_Detection-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object_Tracking-yellow?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ✨ Generative AI
+
+<p>
+
+<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM_Fine_Tuning-00C853?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 Agentic AI
+
+<p>
+
+<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CrewAI-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastMCP-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP_Servers-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agent_Memory-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄️ Vector Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/ChromaDB-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+</p>
+
+---
+
+## ⚙️ Backend & APIs
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗃️ Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🚀 MLOps
+
+<p>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DagsHub-5B5EA6?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ☁️ Deployment & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,linux"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Data Science Intern | AtliQ Technologies
+
+**📅 Dec 2025 – Apr 2026**
+
+### Key Contributions
+
+* 📊 Cleaned and standardized **30,010+ records** by resolving **8,064 missing values**, duplicates, and inconsistencies.
+* 🧹 Created **29,956 model-ready records** for downstream machine learning.
+* 🧠 Engineered **4 new features**, increasing the feature space from **17 → 37 features**.
+* 🤖 Benchmarked **6 Machine Learning models**.
+* 🎯 Achieved **92.26% Accuracy** using **XGBoost**.
+* 📈 Achieved **92% Precision**, **92% Recall**, and **92% F1 Score**.
+* 📦 Tracked ML experiments using **MLflow** and **DagsHub**.
+* ☁️ Deployed a **Streamlit Cloud** application for stakeholders.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Agentic AI–Powered HR Management System
+
+**Tech Stack**
+
+`Python` • `LangGraph` • `CrewAI` • `FastAPI` • `ChromaDB` • `Neo4j` • `SQL` • `SMTP`
+
+### Highlights
+
+* 🚀 Built a production-grade **multi-agent HR platform**.
+* 🤖 Automated employee query resolution.
+* 📄 AI-powered resume screening.
+* 📚 HR policy retrieval using **Graph RAG**.
+* 🧠 Combined **Neo4j** and **ChromaDB** for hybrid retrieval.
+* ⚡ Integrated FastAPI backend with persistent agent memory.
+
+---
+
+## 🛒 AI-Powered E-Commerce Chatbot
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `RAG` • `LLM` • `ChromaDB` • `Vector Search`
+
+### Highlights
+
+* 🛍️ Intelligent chatbot supporting **1000+ products**.
+* 🔍 Semantic search using vector embeddings.
+* ⚡ Sub-second product retrieval.
+* 📚 Hybrid retrieval using SQL + Vector Database.
+* 💬 Context-aware responses for products and policies.
+
+---
+
+# 🎯 Areas of Expertise
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Feature_Engineering-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-181717?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+| 🏅 Certification                  | 🏢 Organization   |
+| --------------------------------- | ----------------- |
+| Machine Learning for Data Science | CodeBasics        |
+| OpenCV                            | OpenCV University |
+| Deep Learning                     | CodeBasics        |
+| Generative AI                     | CodeBasics        |
+
+---

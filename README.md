@@ -369,3 +369,186 @@ Current Focus:
 | Generative AI                     | CodeBasics        |
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaiknazeer14&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiknazeer14&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shaiknazeer14&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaiknazeer14&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shaiknazeer14&theme=github_dark&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Graph_RAG-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM_Fine_Tuning-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multi_Agent_Systems-0E76A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Product_Engineering-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+---
+
+# 🤝 Open To
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_Internships-Available-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning_Roles-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Contributions-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Collaboration-Welcome-brightgreen?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:imnazeer720@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shaik-nazeer-ai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codebasics.io/portfolio/Shaik-Nazeer">
+<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/R9A3CkqdEL/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/shaiknazeer14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shaiknazeer14&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+# 💬 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable this after creating the GitHub Action.
+
+```markdown
+![Snake animation](https://github.com/shaiknazeer14/shaiknazeer14/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# 📌 Featured Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,linux"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CrewAI-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-6F42C1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DagsHub-5B5EA6?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> *"Technology creates value only when it solves real problems. My goal is to build AI systems that are intelligent, scalable, reliable, and impactful."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### If you like my work, consider ⭐ starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=footer"/>
+
+</div>
